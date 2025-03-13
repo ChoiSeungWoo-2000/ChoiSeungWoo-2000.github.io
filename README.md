@@ -1,5 +1,7 @@
 # ChoiSeungWoo-2000.github.io
 
+20242044 최승우
+
 ***
 
 [**homework2-1**](https://ChoiSeungWoo-2000.github.io/homework2-1.html)
