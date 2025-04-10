@@ -19,7 +19,6 @@
 
 [**homework3-3**](https://ChoiSeungWoo-2000.github.io/homework3-3.png)
 
-[**homework3-4**](https://ChoiSeungWoo-2000.github.io/homework3-4.png)
 
 [**homework3-5**](https://ChoiSeungWoo-2000.github.io/homework3-5.png)
 
